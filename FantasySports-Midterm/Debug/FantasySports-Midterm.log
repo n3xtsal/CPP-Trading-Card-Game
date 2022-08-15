@@ -1,0 +1,4 @@
+﻿  FantasySports-Midterm.cpp
+C:\Users\Sal2ElectricBoogaloo\source\repos\Winter2021-GameEng\FantasySports-Midterm\FantasySports-Midterm\Team.h(35,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sal2ElectricBoogaloo\source\repos\Winter2021-GameEng\FantasySports-Midterm\FantasySports-Midterm\Random.h(14,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FantasySports-Midterm.vcxproj -> C:\Users\Sal2ElectricBoogaloo\source\repos\Winter2021-GameEng\FantasySports-Midterm\Debug\FantasySports-Midterm.exe
